@@ -1,0 +1,10 @@
+.square {
+    list-style-type: square;
+}
+.naast {
+    list-style-type: none;
+}
+
+.naastin {
+    display: inline-block;
+}
